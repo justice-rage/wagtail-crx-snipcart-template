@@ -1,31 +1,25 @@
-# Wagtail CRX Snipcart Storefront
+# Wagtail CRX Snipcart
 
 This project integrates [Wagtail CRX](https://docs.coderedcorp.com/wagtail-crx/) and [Snipcart](https://snipcart.com/). Allowing individuals to get a robust e-commerce store off the ground quickly.
 
 ![Cover image of a cute animated bird shopping in a store](README_media/bird-gone-shopping-background-1600x900.png)
 
-## Technology Stack
-- Wagtail CRX
-- Bootstrap 5
-- PostgreSQL
-- JavaScript
-- Wagtail
-- Python
-- Django
-- HTML
-- Ngrok
-- CSS
-
-## Integrated Version Status
+## Status
 
 |                        |                      |
 |------------------------|----------------------|
 | Wagtail CRX         | 1.0 |
 | Snipcart                  | 3.0 |
 
-## Test Coverage
-Note: TDD Pytest update in progress. Currently learning Pytest.
-- Current: 0%
+## What is Wagtail CRX Snipcart?
+---
+This project began as my capstone for [Epicodus](https://www.epicodus.com/). The full-stack software developer bootcamp I attended. I had a client who wanted an e-commerce site built. Initially, I was going to make the website from scratch using my bootcamp's technology stack, Ruby On Rails, JS, and React, but I quickly decided against it.
+
+I would be doing my client a disservice. I could leverage existing solutions that would equip the project with capabilities that would increase my client's chances of success. I began learning Python 3  during the Pandemic and became familiar with Django before my bootcamp. I remembered dabbling with Wagtail CMS and another project called CodeRed CMS, which optimized for rapid development. A couple of google searches later, I discovered CodeRed CMS had rebranded to Wagtail CRX and developed significantly since I last saw it. It was exactly what I needed. Now I needed an e-commerce solution. 
+
+Unfortunately, I could not locate an up-to-date open-source e-commerce solution I was confident implementing. I could create a homebrewed solution, but that would result in the same problem as before - I wouldn't be setting my client up for success. I knew a robust solution had to exist. After some more searching, I encountered Snipcart; the rest is history. 
+
+With Wagtail CRX optimized for rapid development time, and Snipcart offloading the overhead of designing and implementing a robust e-commerce solution, you get the best of both worlds. 
 
 ## Why did I decide to integrate Wagtail CRX and Snipcart?
 I decided to utilize the following three technologies because of the following reasons in no specific order:
