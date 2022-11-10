@@ -1,6 +1,6 @@
 # Wagtail CRX Snipcart Template
 
-This project integrates [Wagtail CRX](https://docs.coderedcorp.com/wagtail-crx/) and [Snipcart](https://snipcart.com/). Allowing individuals to get a robust e-commerce store off the ground quickly.
+This project integrates [Wagtail CRX](https://docs.coderedcorp.com/wagtail-crx/) and [Snipcart](https://snipcart.com/). My purpose for creating this is twofold. I realized that creating an e-commerce store in one of my favorite technology ecosystems took a lot of work, so I changed that. Secondly, I often have ideas, but they aren't worth anything unless you validate them. This template will help others out there validate their ideas quickly and affordably.
 
 ![Cover image of a cute animated bird shopping in a store](README_media/bird-gone-shopping-background-1600x900.png)
 
