@@ -12,15 +12,15 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 import os
-import environ
+# import environ
 from django.utils.translation import gettext_lazy as _
 
-env = environ.Env()
+# env = environ.Env()
 
 # Reads .env file
-environ.Env.read_env()
+# environ.Env.read_env()
 
-SECRET_KEY = env("SECRET_KEY")
+# SECRET_KEY = env("SECRET_KEY")
 PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE_DIR = os.path.dirname(PROJECT_DIR)
 
@@ -112,12 +112,13 @@ WSGI_APPLICATION = "mysite.wsgi.application"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": env("DATABASE_NAME"),
-        "USER": env("DATABASE_USER"),
-        "PASSWORD": env("DATABASE_PASSWORD"),
-        "HOST": env("DATABASE_HOST"),
-        "PORT": env("DATABASE_PORT"),
+        "ENGINE": "django.db.backends.sqlite3",
+        "NAME": os.path.join(BASE_DIR, "db.sqlite3"),
+        # "NAME": env("DATABASE_NAME"),
+        # "USER": env("DATABASE_USER"),
+        # "PASSWORD": env("DATABASE_PASSWORD"),
+        # "HOST": env("DATABASE_HOST"),
+        # "PORT": env("DATABASE_PORT"),
     }
 }
 
