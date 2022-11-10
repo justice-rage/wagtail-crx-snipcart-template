@@ -12,7 +12,6 @@ This project integrates [Wagtail CRX](https://docs.coderedcorp.com/wagtail-crx/)
 | Snipcart                  | 3.0 |
 
 ## What is Wagtail CRX Snipcart?
----
 This project began as my capstone for [Epicodus](https://www.epicodus.com/). The full-stack software developer bootcamp I attended. I had a client who wanted an e-commerce site built. Initially, I was going to make the website from scratch using my bootcamp's technology stack, Ruby On Rails, JS, and React, but I quickly decided against it.
 
 I would be doing my client a disservice. I could leverage existing solutions that would equip the project with capabilities that would increase my client's chances of success. I began learning Python 3  during the Pandemic and became familiar with Django before my bootcamp. I remembered dabbling with Wagtail CMS and another project called CodeRed CMS, which optimized for rapid development. A couple of google searches later, I discovered CodeRed CMS had rebranded to Wagtail CRX and developed significantly since I last saw it. It was exactly what I needed. Now I needed an e-commerce solution. 
