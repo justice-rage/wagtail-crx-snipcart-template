@@ -17,11 +17,15 @@ This project takes the best of both worlds. [Wagtail CRX](https://github.com/cod
 
 ## Project Origins
 
-This project began as my capstone for [Epicodus](https://www.epicodus.com/). The full-stack software developer bootcamp I attended. I had a client who wanted an e-commerce site built. Initially, I was going to make the website from scratch using my bootcamp's technology stack, Ruby On Rails, JS, and React, but I quickly decided against it.
+This project began as [my capstone](https://github.com/justicepelteir/wagtail_crx_snipcart_storefront) for [Epicodus](https://www.epicodus.com/). The full-stack software developer bootcamp I attended. I had a client who wanted an e-commerce site built. Initially, I was going to make the website from scratch using my bootcamp's technology stack, Ruby On Rails, JS, and React, but I quickly decided against it.
 
 I would be doing my client a disservice. I could leverage existing solutions that would equip the project with capabilities that would increase my client's chances of success. I began learning [Python 3](https://www.python.org/)  during the Pandemic and became familiar with [Django](https://github.com/django/django) before my bootcamp. I remembered dabbling with Wagtail CMS and another project called CodeRed CMS, which optimized for rapid development. A couple of google searches later, I discovered CodeRed CMS had rebranded to Wagtail CRX and developed significantly since I last saw it. It was exactly what I needed. Now I needed an e-commerce solution. 
 
-Unfortunately, I could not locate an up-to-date open-source e-commerce solution I was confident implementing. I could create a homebrewed solution, but that would result in the same problem as before - I wouldn't be setting my client up for success. I knew a robust solution had to exist. After some more searching, I encountered Snipcart; the rest is history. 
+Unfortunately, I could not locate an up-to-date open-source e-commerce solution I was confident implementing. I could create a homebrewed solution, but that would result in the same problem as before - I wouldn't be setting my client up for success. I knew a robust solution had to exist. After some more searching, I encountered Snipcart; the rest is history.
+
+A couple of weeks after completing my bootcamp coursework, I got a very cool surprise while beginning the steps to transform my capstone into an open-source python package. While perusing the official Wagtail Documentation, I stopped by the third-party tutorials section. At the top of the third-party tutorial list was a "Guide to integrate Wagtail CRX with a Snipcart storefront (9 October 2022)." Thinking how uncanny the coincidence was after developing my solution, I clicked on it, curious to see what someone else had developed - only for the link to take me to my capstone repository. When doing a google search for "how to integrate wagtail crx with snipcart," my project repo and Wagtail's "Guide to integrate Wagtail CRX with a Snipcart storefront (9 October 2022)" were now the top results.
+
+I originally planned to create a Python Package based on this project to give back to the community that got me into programming. Still, I did not imagine I would stumble across my project included in Wagtail's official documentation site. The original goal was to make creating a Wagtail-based e-commerce store as simple as spinning up a CRX project and pip-installing the package. However, I realized creating an open-source template serves the same purpose in fewer steps. Unless I encounter a drastic need to create a package, I may settle for improving this template over time and creating further documentation and guides to customize this template as per user needs.
 
 
 ## Why did I decide to integrate Wagtail CRX and Snipcart?
@@ -191,9 +195,6 @@ None currently known.
 
 ## Recommended Hosting Solution
 [CodeRed Cloud](https://www.codered.cloud/)
-
-## Future Plans
-I originally planned to create a Python Package based on this project to give back to the community that got me into programming. The goal was to make creating a Wagtail-based e-commerce store as simple as spinning up a CRX project and pip-installing the package. However, creating an open-source template served the same purpose in arguably fewer steps. Unless I encounter a drastic need to create a package, I may settle for improving this template over time and creating further documentation and guides to customize this template as per user needs.
 
 ## Giving Credit
 
