@@ -2,7 +2,7 @@
 
 This project integrates [Wagtail CRX](https://docs.coderedcorp.com/wagtail-crx/) and [Snipcart](https://snipcart.com/). My purpose for creating this is twofold. I realized that creating an e-commerce store in one of my favorite technology ecosystems took a lot of work, so I changed that. Secondly, I often have ideas, but they aren't worth anything unless you validate them. This template will help others out there validate their ideas quickly and affordably.
 
-![Cover image of a cute animated bird shopping in a store](README_MEDIA/bird-gone-shopping-background-1600x900.png)
+![Cover image of a cute animated bird shopping in a store](README_media/bird-gone-shopping-background-1600x900.png)
 
 ## Status
 
@@ -138,7 +138,7 @@ I decided to utilize the following three technologies because of the following r
 
 30. Congratulations, you have successfully made a test transaction and completed the tutorial! 🎉 
     - You will be able to see your transaction in your Snipcart dashboard. 
-    - Delete README_MEDIA and replace any pre-existing items as you see fit.
+    - Delete README_media and replace any pre-existing items as you see fit.
 
 ---
 
@@ -166,17 +166,17 @@ I decided to utilize the following three technologies because of the following r
 ## Example Project Screenshots
 ##### Disclaimer
 Due to the passionately long nature of the example customer's email, the email text runs into the billing address text in screenshots seven and eight. Under normal email length circumstances provided by test users, not hellbent on [pressuring Tacobell to bring back the XXL Grilled Stuft Burrito](https://www.change.org/p/taco-bell-bring-back-the-xxl-grilled-stuffed-burrito), this text conflict would not occur.
-1. ![Wagtail CRX Snipcart Homepage](README_MEDIA/wagtail-crx-snipcart-homepage.png)
-2. ![Wagtail CRX Snipcart Products Landing Page](README_MEDIA/wagtail-crx-snipcart-products-landing-page.png)
-3. ![Wagtail CRX Snipcart Product Page](README_MEDIA/wagtail-crx-snipcart-product-page.png)
-4. ![Wagtail CRX Snipcart Modal Cart](README_MEDIA/wagtail-crx-snipcart-modal-cart.png)
-5. ![Wagtail CRX Snipcart Cart Summary](README_MEDIA/wagtail-crx-snipcart-cart-summary.png)
-6. ![Wagtail CRX Snipcart Cart Summary Detail](README_MEDIA/wagtail-crx-snipcart-cart-summary-detail.png)
-7. ![Wagtail CRX Snipcart billing](README_MEDIA/wagtail-crx-snipcart-billing.png)
-8. ![Wagtail CRX Snipcart Payment](README_MEDIA/wagtail-crx-snipcart-payment.png)
-9. ![Wagtail CRX Snipcart Thank You For Your Order](README_MEDIA/wagtail-crx-snipcart-thank-you-for-your-order.png)
-10. ![Wagtail CRX Snipcart About](README_MEDIA/wagtail-crx-snipcart-about.png)
-11. ![Wagtail CRX Snipcart Contact](README_MEDIA/wagtail-crx-snipcart-contact.png)
+1. ![Wagtail CRX Snipcart Homepage](README_media/wagtail-crx-snipcart-homepage.png)
+2. ![Wagtail CRX Snipcart Products Landing Page](README_media/wagtail-crx-snipcart-products-landing-page.png)
+3. ![Wagtail CRX Snipcart Product Page](README_media/wagtail-crx-snipcart-product-page.png)
+4. ![Wagtail CRX Snipcart Modal Cart](README_media/wagtail-crx-snipcart-modal-cart.png)
+5. ![Wagtail CRX Snipcart Cart Summary](README_media/wagtail-crx-snipcart-cart-summary.png)
+6. ![Wagtail CRX Snipcart Cart Summary Detail](README_media/wagtail-crx-snipcart-cart-summary-detail.png)
+7. ![Wagtail CRX Snipcart billing](README_media/wagtail-crx-snipcart-billing.png)
+8. ![Wagtail CRX Snipcart Payment](README_media/wagtail-crx-snipcart-payment.png)
+9. ![Wagtail CRX Snipcart Thank You For Your Order](README_media/wagtail-crx-snipcart-thank-you-for-your-order.png)
+10. ![Wagtail CRX Snipcart About](README_media/wagtail-crx-snipcart-about.png)
+11. ![Wagtail CRX Snipcart Contact](README_media/wagtail-crx-snipcart-contact.png)
 
 ##### Note
 I did not share screenshots of the admin as it should be straightforward with a combination of the official Wagtail CRX and Wagtail documentation alongside this README.
